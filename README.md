@@ -10,7 +10,7 @@
 <img src="https://miro.medium.com/max/1200/1*ImNKTJmXNYx_iwFZF_nDUg.gif">
 
 ## Como rodar o projeto? 
- > Baixe ou clone ou repositorio e depois abra o aquivo index.html em um navegador
+ > Baixe ou clone o repositorio e depois abra o aquivo index.html em um navegador
  
 
  ## Como jogar?
